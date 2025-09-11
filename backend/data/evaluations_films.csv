@@ -1,0 +1,1001 @@
+film_id,film_titre,note ,date_evaluation
+2,Les Silences du palais,3,2028-09-23
+3,El-Erhab Wel-Kabab,1,2027-12-06
+10,Captain Masr,4,2025-08-02
+6,El-Belyatsho,3,2027-05-13
+6,La La Land,4,2027-11-09
+6,Excuse My French,5,2027-07-01
+1,The Dark Knight,4,2026-08-19
+1,Sahar El-Layali,4,2026-03-26
+4,Halfaouine: l'enfant des terrasses,3,2026-06-04
+7,Sheikh Jackson,5,2026-04-09
+9,El-Banate Dol,4,2028-04-10
+1,Amn Dawla,4,2029-12-02
+2,The Island,4,2030-02-17
+2,El-Montag,1,2028-05-27
+2,Laïla Min Sanawat,1,2028-12-07
+2,Le Challat de Tunis,4,2028-06-15
+4,El-Limby,3,2027-10-26
+2,Microphone,4,2030-06-26
+9,Al-Khoroug Lel-Nahar,2,2029-03-20
+1,El-Le'b Ma'a El-Kobar,1,2028-07-07
+1,Sons of Rizk,1,2029-02-03
+10,Sons of Rizk,5,2027-09-20
+9,El-Le'b Ma'a El-Kobar,5,2028-01-15
+3,The Matrix,5,2026-09-01
+10,Bente Min El-Zahraa,3,2027-11-18
+1,Al-Kaala,2,2025-08-18
+9,El-Belyatsho,2,2028-08-27
+5,Ouled El-Guetna,5,2028-01-07
+2,El-Rayes Omar Harb,3,2028-11-07
+8,Al-Khoroug Lel-Nahar,1,2027-02-05
+8,La Danse du vent,2,2028-09-03
+10,Al-Kaala,2,2028-02-14
+4,Décor,5,2027-02-14
+5,Farsheed El-Madi,5,2028-05-25
+7,Lilly,1,2026-07-08
+4,Welad Rizk,4,2026-06-13
+2,Avatar,3,2030-01-17
+3,Goodfellas,4,2027-03-09
+4,The Shawshank Redemption,2,2028-03-23
+5,Sons of Rizk,5,2027-10-10
+10,Ahlan Kbeer,2,2027-04-18
+3,Al-Kaala,2,2029-02-11
+3,Pulp Fiction,2,2026-01-08
+2,The Night of Counting the Years,1,2030-04-02
+3,Soltane El-Medina,3,2030-04-10
+7,Captain Masr,4,2025-10-08
+10,El-Limby,2,2026-08-13
+1,El-Beyout Asrar,2,2027-04-05
+4,The Night of Counting the Years,2,2027-07-11
+10,Clash,4,2029-10-05
+7,Captain Masr,2,2026-02-19
+7,Ahlan Kbeer,3,2027-07-08
+1,Ahlan Kbeer,5,2028-08-17
+1,La Danse du vent,1,2026-11-14
+1,El-Gezira,2,2029-06-21
+8,El-Fil El-Azraq,3,2028-06-14
+6,Al-Kaala,1,2027-01-19
+4,The Blue Elephant,5,2029-03-11
+7,Ashab Wala Business,1,2028-02-21
+8,Microphone,5,2028-12-09
+8,Bente Min El-Zahraa,1,2025-12-28
+5,El-Irhabby,5,2027-02-09
+3,Gharam Fel-Carnak,3,2029-12-27
+4,Bab El-Hara,1,2027-06-23
+7,El-Belyatsho,5,2028-03-03
+1,Sheikh Jackson,3,2027-12-30
+6,El-Keif,1,2030-02-16
+3,El-Le'b Ma'a El-Kobar,2,2028-02-15
+9,Africano,4,2026-09-17
+5,El-Mamar,1,2027-11-15
+2,Farsheed El-Madi,4,2026-03-11
+1,Laïla Min Sanawat,2,2026-07-21
+7,The Treasure,5,2025-09-04
+2,Forrest Gump,1,2028-11-08
+3,The Night of Counting the Years,1,2025-08-30
+1,Taymour w Shafika,2,2027-11-01
+8,The Yacoubian Building,3,2025-10-21
+6,El-Fil El-Azraq,3,2026-10-12
+4,Le Prince,1,2030-02-19
+4,El-Nazer,2,2028-12-20
+1,Lilly,2,2029-07-04
+2,El-Khawaga,1,2027-04-08
+8,El-Fil El-Azraq,4,2027-08-24
+8,El-Le'b Ma'a El-Kobar,5,2029-05-24
+8,Clash,3,2028-01-04
+6,Le Challat de Tunis,3,2025-11-21
+10,The Blue Elephant,1,2027-03-21
+5,Goodfellas,4,2029-02-10
+9,El-Banate Dol,2,2027-06-22
+2,El-Fil El-Azraq,2,2025-09-15
+8,Avatar,1,2029-02-18
+2,Sons of Rizk,1,2029-01-13
+10,Sahar El-Layali,2,2029-01-06
+5,Boushkash,3,2026-05-12
+1,Forrest Gump,5,2029-08-30
+7,El-Irhabby,2,2028-02-11
+3,El-Irhabby,3,2026-12-09
+4,The Blue Elephant,5,2027-08-03
+2,The Matrix,1,2029-04-03
+7,El-Baghdadi,1,2026-09-12
+2,Goodfellas,5,2027-10-23
+4,Sahar El-Layali,3,2027-04-05
+1,El-Baghdadi,2,2027-02-19
+8,El-Le'b Ma'a El-Kobar,5,2026-07-06
+1,Excuse My French,1,2029-03-30
+2,The Dark Knight,1,2029-10-18
+3,Welad Rizk,5,2025-10-14
+10,El-Mamar,1,2029-07-21
+7,Forrest Gump,5,2028-04-22
+1,El-Mamar,5,2027-06-20
+6,Inception,1,2027-04-08
+5,El-Nazer,2,2025-12-17
+10,Sabaa Waraat,1,2030-01-07
+6,El-Le'b Ma'a El-Kobar,5,2026-07-11
+6,Sheikh Jackson,2,2029-12-09
+5,Titanic,3,2028-11-17
+2,Villa 69,5,2026-07-15
+4,Sheikh Jackson,1,2028-07-26
+5,Pulp Fiction,1,2029-06-13
+2,Titanic,2,2029-07-07
+4,Al-Khoroug Lel-Nahar,5,2030-02-12
+7,Cairo 678,4,2028-04-20
+2,Halfaouine: l'enfant des terrasses,1,2029-04-17
+1,El-Belyatsho,2,2027-04-27
+4,El-Kenz,3,2028-12-11
+4,Taymour w Shafika,2,2028-10-28
+8,El-Keif,4,2029-05-05
+1,El-Baghdadi,4,2026-04-06
+1,Taymour w Shafika,5,2029-10-23
+1,Sabaa Waraat,3,2028-06-30
+1,Captain Masr,1,2026-07-13
+10,El-Beyout Asrar,4,2028-10-28
+7,Bente Min El-Zahraa,2,2027-12-02
+2,The Blue Elephant,3,2027-06-09
+4,Soltane El-Medina,4,2027-06-28
+4,El-Mamar,2,2027-02-08
+10,Avatar,3,2029-05-12
+8,Microphone,4,2030-03-16
+5,Ahlan Kbeer,3,2028-03-29
+4,El-Montag,3,2028-09-17
+9,Inception,1,2029-09-28
+8,Goodfellas,4,2030-02-21
+7,Amn Dawla,3,2025-10-12
+8,Captain Masr,1,2026-11-01
+8,The Island,1,2029-12-20
+7,Inception,3,2026-09-28
+8,Les Silences du palais,1,2028-08-26
+3,Clash,2,2026-02-22
+8,La Danse du vent,4,2025-12-10
+10,El-Limby,4,2030-05-13
+4,The Treasure,1,2028-09-12
+9,Welad Rizk,2,2028-08-03
+9,The Yacoubian Building,3,2028-12-19
+5,Microphone,5,2026-01-16
+9,La La Land,5,2027-06-28
+9,El-Limby,5,2027-05-04
+9,Soltane El-Medina,4,2028-04-14
+4,The Blue Elephant,1,2025-12-08
+5,Excuse My French,4,2026-03-17
+1,El-Basha Telmiz,5,2029-08-09
+3,The Treasure,4,2030-03-24
+9,Sammouta,4,2025-11-18
+3,Al-Khoroug Lel-Nahar,3,2027-05-23
+7,Cairo 678,5,2026-02-11
+9,Pulp Fiction,1,2026-06-02
+5,The Blue Elephant,3,2029-04-08
+3,El-Basha Telmiz,3,2025-11-29
+2,The Matrix,4,2029-02-13
+5,El-Limby,3,2026-09-16
+9,The Treasure,2,2026-12-28
+5,Goodfellas,3,2028-03-23
+8,El-Banate Dol,2,2029-07-30
+4,El-Mamar,2,2027-06-25
+10,Laïla Min Sanawat,4,2027-04-10
+6,Soltane El-Medina,1,2029-01-08
+1,Villa 69,1,2028-06-01
+2,Microphone,5,2026-09-02
+5,El-Keif,1,2027-03-19
+8,Sabaa Waraat,2,2025-08-04
+4,El-Nazer,1,2028-09-16
+8,La Danse du vent,3,2028-04-23
+5,Ashab Wala Business,5,2026-11-20
+9,The Night of Counting the Years,5,2028-10-23
+10,El-Kenz,4,2026-09-29
+4,Saidi fil Gamaa El-Amrikiya,2,2029-03-10
+7,Soltane El-Medina,1,2026-11-26
+10,Halfaouine: l'enfant des terrasses,3,2026-03-14
+4,Boushkash,4,2027-11-16
+5,El-Basha Telmiz,3,2028-03-20
+7,El-Belyatsho,5,2026-09-01
+9,Sahar El-Layali,3,2029-10-08
+8,Taymour w Shafika,4,2026-05-16
+1,Farsheed El-Madi,2,2027-09-03
+4,El-Rayes Omar Harb,2,2027-03-12
+2,Le Challat de Tunis,2,2025-10-03
+1,The Night of Counting the Years,5,2029-09-09
+5,Bab El-Hara,3,2030-06-07
+7,The Blue Elephant,5,2030-05-23
+8,Al-Khoroug Lel-Nahar,4,2028-12-18
+4,Goodfellas,5,2028-02-29
+2,The Treasure,4,2028-10-04
+5,The Treasure,4,2030-03-19
+9,Titanic,5,2027-09-11
+9,Al-Kaala,3,2026-08-25
+1,Ashab Wala Business,2,2027-06-30
+4,El-Keif,5,2028-10-19
+9,Amn Dawla,3,2028-05-10
+3,El-Limby,5,2028-07-10
+1,El-Kenz,1,2029-09-13
+9,El-Kenz,3,2026-10-17
+6,Bente Min El-Zahraa,2,2030-04-16
+7,El-Kenz,2,2027-02-13
+5,Soltane El-Medina,4,2030-01-03
+10,The Dark Knight,1,2028-09-13
+10,Avatar,3,2027-06-10
+2,El-Keif,5,2026-05-28
+8,El-Basha Telmiz,5,2030-02-07
+5,El-Keif,4,2028-09-04
+6,Captain Masr,1,2026-04-22
+2,La Danse du vent,1,2026-05-11
+9,El-Belyatsho,2,2025-09-14
+2,Forrest Gump,1,2027-10-26
+6,Ouled El-Guetna,5,2029-05-25
+9,The Blue Elephant,5,2030-06-13
+8,Lilly,4,2028-04-24
+4,The Shawshank Redemption,2,2028-07-16
+6,The Yacoubian Building,2,2026-12-10
+3,Forrest Gump,1,2030-02-21
+3,The Matrix,5,2029-11-16
+3,Lilly,4,2030-06-06
+10,The Dark Knight,1,2026-10-18
+2,Laïla Min Sanawat,5,2028-12-06
+1,Halfaouine: l'enfant des terrasses,2,2030-04-28
+9,Sabaa Waraat,1,2028-08-06
+8,Africano,3,2026-12-08
+3,Sabaa Waraat,2,2027-05-03
+8,The Yacoubian Building,1,2029-05-24
+6,Sabaa Waraat,5,2029-06-23
+9,Saidi fil Gamaa El-Amrikiya,4,2025-08-17
+6,El-Baghdadi,2,2029-10-05
+4,El-Montag,5,2027-07-26
+7,Goodfellas,5,2026-01-06
+5,Lilly,2,2027-05-23
+7,Décor,1,2026-07-11
+6,Amn Dawla,2,2027-07-27
+7,Halfaouine: l'enfant des terrasses,1,2026-05-06
+5,Boushkash,1,2029-11-20
+4,Ahlan Kbeer,1,2029-01-11
+2,Africano,4,2026-02-12
+6,Taymour w Shafika,1,2029-03-21
+7,El-Gezira,2,2030-03-13
+4,El-Montag,2,2027-05-03
+6,Le Challat de Tunis,2,2029-05-10
+7,The Dark Knight,1,2027-12-17
+4,The Blue Elephant,5,2026-01-24
+9,Les Silences du palais,5,2025-09-19
+5,Décor,3,2027-07-02
+3,Amn Dawla,1,2029-02-27
+1,La La Land,5,2026-03-20
+4,Africano,2,2026-12-11
+8,The Blue Elephant,2,2027-08-31
+6,Décor,1,2029-12-26
+1,El-Le'b Ma'a El-Kobar,5,2027-05-09
+10,Welad Rizk,2,2029-01-13
+8,El-Nazer,3,2028-06-27
+10,Forrest Gump,3,2030-04-27
+6,Forrest Gump,1,2026-12-14
+6,El-Nazer,2,2026-01-19
+8,Villa 69,5,2028-10-14
+5,The Matrix,3,2029-11-10
+9,Ouled El-Guetna,1,2029-01-02
+10,Amn Dawla,2,2027-11-10
+8,Microphone,5,2026-12-29
+6,La La Land,4,2028-07-04
+6,Africano,5,2028-03-15
+1,Pulp Fiction,3,2029-10-13
+5,Sons of Rizk,1,2029-12-25
+6,Les Silences du palais,4,2026-02-10
+8,Sabaa Waraat,2,2027-08-26
+7,El-Belyatsho,2,2029-07-18
+2,Captain Masr,1,2025-10-28
+4,Welad Rizk,4,2030-01-09
+7,Sheikh Jackson,2,2028-04-14
+3,The Island,4,2026-09-06
+1,Titanic,5,2026-08-10
+3,El-Gezira,3,2030-04-28
+8,Goodfellas,1,2029-02-09
+9,Les Silences du palais,3,2027-05-22
+5,El-Gezira,1,2029-08-17
+7,El-Rayes Omar Harb,2,2029-11-26
+5,The Yacoubian Building,1,2029-04-02
+3,El-Nazer,3,2026-03-23
+10,Titanic,5,2026-02-24
+6,Avatar,4,2025-09-16
+1,El-Basha Telmiz,4,2027-05-25
+7,La Danse du vent,3,2028-10-14
+3,El-Khawaga,5,2030-03-03
+7,The Shawshank Redemption,3,2030-01-30
+5,Bab El-Hara,5,2026-08-22
+4,The Treasure,5,2026-09-18
+9,Bab El-Hara,1,2026-07-06
+2,Décor,3,2030-01-19
+1,The Night of Counting the Years,4,2029-09-12
+5,Taymour w Shafika,2,2029-07-15
+4,La La Land,3,2025-11-15
+8,El-Mamar,4,2030-04-09
+9,El-Belyatsho,2,2028-11-23
+5,Sheikh Jackson,1,2027-05-24
+5,Sabaa Waraat,1,2027-03-08
+7,El-Banate Dol,2,2028-05-14
+1,El-Baghdadi,5,2027-01-28
+5,Sammouta,1,2026-08-16
+2,El-Rayes Omar Harb,2,2028-04-09
+3,Clash,1,2029-12-14
+4,El-Nazer,1,2030-04-10
+2,Ashab Wala Business,2,2026-05-18
+2,Avatar,4,2028-07-12
+2,El-Khawaga,5,2029-05-16
+1,Le Prince,3,2029-11-01
+5,Al-Kaala,4,2027-03-25
+5,Satin Rouge,5,2030-02-26
+1,Le Challat de Tunis,5,2029-12-02
+10,Lilly,2,2029-10-31
+8,El-Keif,1,2029-03-09
+4,El-Kenz,4,2026-07-28
+8,Bente Min El-Zahraa,4,2026-05-10
+8,The Blue Elephant,5,2025-12-13
+6,El-Belyatsho,1,2030-01-17
+4,Sammouta,1,2028-09-19
+8,La Danse du vent,5,2028-01-23
+9,Laïla Min Sanawat,1,2029-08-04
+3,El-Keif,4,2029-04-20
+5,El-Le'b Ma'a El-Kobar,2,2026-10-16
+3,Farsheed El-Madi,4,2029-12-20
+6,Ahlan Kbeer,3,2028-07-26
+6,Halfaouine: l'enfant des terrasses,3,2026-06-22
+4,Sabaa Waraat,1,2026-07-28
+7,Bab El-Hara,3,2027-07-05
+10,Sheikh Jackson,4,2029-03-24
+2,The Blue Elephant,4,2028-04-03
+9,El-Mamar,4,2028-01-06
+4,Avatar,4,2026-02-16
+1,Zef Chbibek,1,2028-12-10
+3,Avatar,1,2026-11-25
+7,Farsheed El-Madi,1,2028-12-25
+9,El-Erhab Wel-Kabab,2,2028-09-13
+1,Sons of Rizk,3,2027-03-28
+9,Excuse My French,2,2029-07-30
+1,The Matrix,1,2025-09-12
+2,Amn Dawla,2,2026-02-20
+1,El-Beyout Asrar,5,2028-05-25
+4,Zef Chbibek,2,2028-08-02
+4,Gharam Fel-Carnak,1,2028-11-05
+4,Clash,1,2027-07-24
+2,Farsheed El-Madi,5,2026-11-27
+8,The Blue Elephant,5,2030-06-10
+5,Amn Dawla,5,2026-01-25
+3,El-Le'b Ma'a El-Kobar,1,2026-03-03
+4,The Matrix,2,2026-07-14
+6,Amn Dawla,2,2025-08-10
+1,Inception,4,2028-12-28
+8,The Yacoubian Building,3,2028-01-08
+2,El-Irhabby,2,2029-08-31
+6,Excuse My French,3,2027-03-08
+8,Taymour w Shafika,3,2025-11-24
+5,Pulp Fiction,3,2026-08-28
+1,Clash,5,2027-09-21
+9,El-Keif,1,2026-05-22
+6,The Island,2,2028-01-23
+3,Clash,5,2027-06-18
+6,Décor,2,2030-05-04
+6,El-Khawaga,4,2026-01-29
+9,El-Nazer,1,2026-03-27
+2,Sons of Rizk,4,2028-06-18
+4,El-Kenz,3,2027-10-25
+10,Forrest Gump,2,2027-12-10
+5,Bente Min El-Zahraa,2,2026-11-29
+2,The Night of Counting the Years,3,2029-06-25
+8,El-Montag,4,2027-06-21
+10,La La Land,4,2027-08-09
+4,The Treasure,3,2029-11-08
+2,Inception,3,2026-04-23
+3,The Dark Knight,5,2028-09-16
+2,Ahlan Kbeer,4,2027-04-07
+2,Décor,5,2028-05-28
+5,Zef Chbibek,2,2029-11-07
+2,Satin Rouge,3,2029-11-15
+4,Les Silences du palais,3,2027-03-25
+10,Taymour w Shafika,5,2029-01-06
+3,Saidi fil Gamaa El-Amrikiya,3,2028-06-21
+6,El-Banate Dol,2,2029-09-02
+5,Halfaouine: l'enfant des terrasses,4,2029-11-25
+8,The Blue Elephant,1,2027-08-22
+5,The Yacoubian Building,1,2027-10-19
+8,The Yacoubian Building,1,2029-06-18
+8,El-Gezira,2,2026-08-24
+8,Villa 69,4,2028-12-08
+4,El-Khawaga,2,2028-06-22
+2,Forrest Gump,2,2025-11-07
+1,Avatar,3,2026-09-23
+7,The Shawshank Redemption,4,2029-07-16
+5,El-Keif,3,2030-01-05
+2,Sabaa Waraat,1,2029-01-31
+2,Pulp Fiction,1,2025-11-15
+9,Africano,4,2028-02-01
+10,Soltane El-Medina,2,2026-12-04
+10,El-Rayes Omar Harb,1,2029-12-07
+9,Ahlan Kbeer,1,2027-05-01
+7,El-Khawaga,5,2029-03-16
+4,The Island,4,2025-09-18
+6,Amn Dawla,2,2026-08-17
+1,El-Nazer,5,2026-04-01
+4,Ouled El-Guetna,4,2027-05-10
+6,Ahlan Kbeer,5,2030-01-20
+5,Bente Min El-Zahraa,2,2028-06-07
+1,Goodfellas,2,2030-03-11
+5,Sheikh Jackson,5,2027-06-21
+10,El-Basha Telmiz,5,2028-12-03
+8,Avatar,2,2026-05-07
+10,Microphone,5,2026-03-26
+4,Sons of Rizk,1,2028-07-18
+2,El-Fil El-Azraq,4,2029-05-23
+7,The Blue Elephant,2,2028-03-15
+9,The Matrix,1,2027-03-30
+9,El-Montag,2,2029-12-22
+2,Making Of,5,2030-02-15
+9,La Danse du vent,4,2028-05-12
+7,Sahar El-Layali,3,2027-03-24
+5,El-Belyatsho,4,2026-10-22
+8,Pulp Fiction,5,2030-05-08
+5,El-Khawaga,4,2029-03-04
+1,El-Mamar,4,2028-11-08
+8,Clash,1,2027-08-07
+6,El-Keif,4,2025-09-25
+4,Goodfellas,3,2030-01-08
+4,Le Prince,1,2025-09-04
+2,The Shawshank Redemption,1,2028-04-25
+7,Forrest Gump,1,2026-11-27
+1,Laïla Min Sanawat,2,2029-12-04
+10,Welad Rizk,3,2028-03-12
+2,El-Keif,5,2028-11-24
+8,Saidi fil Gamaa El-Amrikiya,1,2027-03-01
+8,El-Baghdadi,1,2028-08-15
+1,Titanic,3,2029-11-02
+8,El-Montag,5,2029-01-01
+2,Al-Kaala,3,2028-08-14
+1,Inception,4,2029-06-23
+1,El-Baghdadi,5,2028-05-10
+9,La La Land,4,2029-12-05
+7,Making Of,3,2027-07-21
+8,El-Banate Dol,5,2028-08-15
+1,Gharam Fel-Carnak,1,2029-05-26
+9,Welad Rizk,1,2028-11-14
+7,Africano,3,2026-11-09
+5,El-Beyout Asrar,1,2027-10-08
+9,Al-Khoroug Lel-Nahar,5,2025-10-01
+1,Halfaouine: l'enfant des terrasses,2,2025-12-15
+9,El-Beyout Asrar,5,2026-05-21
+5,Sabaa Waraat,4,2027-10-06
+3,Making Of,1,2025-09-04
+6,The Yacoubian Building,1,2029-01-19
+9,The Night of Counting the Years,5,2030-03-17
+2,El-Banate Dol,3,2028-09-09
+8,Forrest Gump,4,2027-06-16
+9,Inception,2,2027-02-14
+10,Amn Dawla,3,2027-03-01
+2,El-Mamar,4,2028-04-29
+10,Titanic,4,2027-08-29
+10,El-Keif,2,2030-01-16
+9,Welad Rizk,1,2030-05-22
+10,Décor,4,2027-10-19
+1,Soltane El-Medina,1,2027-10-03
+2,El-Gezira,1,2027-11-26
+6,Clash,2,2026-07-29
+3,El-Keif,4,2030-03-29
+6,The Blue Elephant,3,2029-09-13
+2,El-Beyout Asrar,4,2028-09-09
+9,Halfaouine: l'enfant des terrasses,2,2026-05-18
+9,The Island,2,2025-11-07
+5,El-Limby,5,2025-10-15
+6,Laïla Min Sanawat,2,2030-05-01
+9,Ahlan Kbeer,3,2026-04-05
+6,Décor,4,2027-05-11
+2,The Island,1,2028-09-09
+10,Sammouta,4,2029-11-01
+10,Al-Kaala,1,2028-06-09
+1,Laïla Min Sanawat,2,2026-03-10
+4,Sahar El-Layali,2,2025-09-27
+5,Satin Rouge,5,2030-04-19
+4,Laïla Min Sanawat,2,2026-02-22
+2,The Matrix,5,2027-01-09
+6,El-Banate Dol,2,2029-05-27
+3,Captain Masr,3,2028-10-17
+5,El-Gezira,5,2027-03-08
+4,Ouled El-Guetna,3,2028-10-26
+7,Sammouta,2,2026-11-14
+2,El-Rayes Omar Harb,1,2027-01-23
+4,The Night of Counting the Years,5,2027-11-06
+3,Microphone,1,2027-11-08
+2,Taymour w Shafika,5,2030-04-05
+5,Taymour w Shafika,4,2027-05-26
+6,El-Le'b Ma'a El-Kobar,5,2027-07-01
+2,El-Mamar,2,2027-02-27
+4,Laïla Min Sanawat,4,2028-04-17
+5,The Dark Knight,4,2025-09-25
+6,Lilly,3,2028-05-27
+2,The Treasure,5,2028-09-05
+4,Amn Dawla,4,2027-03-06
+5,El-Basha Telmiz,3,2028-07-12
+3,Microphone,4,2026-06-10
+5,El-Keif,3,2027-07-30
+9,Cairo 678,2,2027-10-07
+5,Captain Masr,1,2025-08-08
+2,Décor,2,2030-05-23
+8,Pulp Fiction,5,2026-10-05
+5,Al-Khoroug Lel-Nahar,5,2029-06-11
+1,Africano,1,2029-07-22
+4,Titanic,1,2026-06-30
+1,Making Of,1,2027-01-29
+9,Al-Kaala,4,2029-03-18
+1,The Dark Knight,1,2028-01-18
+9,Taymour w Shafika,2,2027-01-15
+6,The Night of Counting the Years,5,2029-09-11
+1,Décor,2,2025-12-30
+10,Cairo 678,2,2029-07-03
+4,El-Montag,5,2027-10-12
+8,La Danse du vent,4,2029-07-16
+1,El-Mamar,4,2027-03-14
+2,Le Prince,5,2028-07-05
+5,El-Limby,5,2029-09-09
+4,Lilly,2,2029-11-01
+1,Sheikh Jackson,1,2028-03-25
+6,El-Keif,1,2029-02-14
+10,Amn Dawla,1,2028-01-10
+1,Titanic,3,2026-03-04
+9,Microphone,5,2026-10-09
+10,Clash,1,2029-04-20
+3,El-Erhab Wel-Kabab,1,2026-09-02
+2,Cairo 678,3,2028-10-27
+3,El-Banate Dol,4,2028-10-20
+9,Pulp Fiction,4,2029-01-10
+2,El-Le'b Ma'a El-Kobar,3,2027-10-17
+6,Sheikh Jackson,2,2026-06-05
+10,El-Beyout Asrar,2,2026-04-13
+6,El-Keif,2,2030-04-18
+9,Avatar,3,2027-11-10
+9,Boushkash,2,2030-02-05
+2,La Danse du vent,3,2027-09-02
+9,Goodfellas,3,2027-09-04
+1,Sheikh Jackson,5,2028-12-31
+1,Taymour w Shafika,4,2027-08-10
+6,The Shawshank Redemption,1,2026-03-20
+1,Farsheed El-Madi,5,2026-11-09
+1,The Night of Counting the Years,5,2027-12-09
+2,Zef Chbibek,1,2028-04-07
+8,Bente Min El-Zahraa,4,2028-10-18
+8,Captain Masr,5,2026-10-30
+4,Forrest Gump,1,2030-02-14
+2,El-Beyout Asrar,3,2025-08-05
+7,El-Beyout Asrar,4,2027-08-19
+2,Inception,4,2026-11-26
+9,Décor,5,2026-08-02
+5,Amn Dawla,2,2028-07-22
+9,The Island,1,2025-08-06
+2,The Blue Elephant,1,2027-02-27
+4,Gharam Fel-Carnak,4,2025-08-06
+1,El-Rayes Omar Harb,4,2030-02-05
+6,El-Baghdadi,3,2029-10-24
+6,The Treasure,1,2030-03-25
+1,Microphone,5,2028-08-26
+5,El-Beyout Asrar,5,2029-03-01
+10,El-Montag,4,2026-08-30
+8,Cairo 678,4,2026-03-17
+1,La La Land,4,2025-11-30
+8,Forrest Gump,3,2025-10-10
+5,El-Basha Telmiz,4,2028-12-05
+6,Amn Dawla,4,2030-05-05
+10,El-Montag,4,2030-03-17
+7,The Island,2,2027-01-23
+9,The Matrix,4,2029-06-10
+2,The Island,2,2026-07-01
+1,Halfaouine: l'enfant des terrasses,2,2028-06-14
+10,El-Belyatsho,3,2027-05-04
+8,The Island,2,2025-10-18
+10,El-Kenz,2,2027-07-29
+2,El-Beyout Asrar,3,2025-10-28
+9,Sammouta,1,2028-04-27
+7,Al-Kaala,2,2028-11-29
+7,Les Silences du palais,5,2027-03-31
+10,Décor,1,2028-12-31
+6,El-Baghdadi,1,2029-05-18
+9,Saidi fil Gamaa El-Amrikiya,3,2028-01-31
+8,Satin Rouge,1,2028-05-17
+1,El-Rayes Omar Harb,3,2025-11-24
+6,Le Prince,3,2026-11-24
+8,Al-Khoroug Lel-Nahar,5,2026-11-25
+6,Sons of Rizk,4,2028-04-17
+6,Bab El-Hara,2,2029-04-20
+9,El-Rayes Omar Harb,1,2027-07-01
+7,The Treasure,4,2026-07-25
+6,The Island,1,2027-06-06
+5,Bente Min El-Zahraa,5,2028-11-19
+10,Halfaouine: l'enfant des terrasses,5,2025-12-10
+9,Africano,2,2028-08-06
+4,Farsheed El-Madi,1,2025-11-01
+1,Al-Khoroug Lel-Nahar,1,2029-05-07
+5,Captain Masr,2,2027-08-18
+1,Welad Rizk,1,2027-02-11
+2,Captain Masr,5,2025-08-11
+10,Zef Chbibek,3,2026-05-23
+10,Laïla Min Sanawat,3,2027-03-08
+6,Microphone,4,2028-05-26
+4,The Yacoubian Building,5,2029-10-05
+1,El-Montag,1,2027-10-26
+5,Excuse My French,1,2028-01-26
+10,The Night of Counting the Years,1,2026-02-11
+3,El-Baghdadi,5,2026-01-05
+2,El-Limby,2,2028-04-26
+3,El-Belyatsho,1,2028-12-25
+5,El-Khawaga,5,2025-08-07
+4,Ouled El-Guetna,2,2026-04-27
+3,The Treasure,5,2028-12-16
+6,El-Keif,1,2030-02-10
+1,El-Irhabby,5,2027-09-13
+8,Laïla Min Sanawat,4,2027-10-23
+2,Zef Chbibek,4,2026-02-12
+8,Sammouta,2,2026-01-23
+3,El-Gezira,3,2029-11-08
+5,El-Baghdadi,3,2026-10-26
+8,The Treasure,2,2027-04-19
+6,Welad Rizk,4,2026-06-19
+7,Ouled El-Guetna,5,2027-08-22
+10,The Island,4,2026-08-28
+4,Sahar El-Layali,2,2026-03-31
+10,Ouled El-Guetna,1,2029-08-03
+2,Goodfellas,3,2029-06-04
+6,The Treasure,3,2030-01-29
+5,Lilly,5,2026-08-16
+8,Inception,2,2025-08-20
+2,Sheikh Jackson,2,2028-11-14
+3,El-Rayes Omar Harb,4,2028-08-27
+6,El-Limby,5,2028-11-29
+8,Forrest Gump,2,2026-08-11
+1,Ahlan Kbeer,1,2027-08-05
+10,Sabaa Waraat,2,2029-02-13
+5,Bab El-Hara,3,2029-10-23
+10,Villa 69,3,2027-12-21
+2,Farsheed El-Madi,3,2027-01-10
+7,El-Montag,3,2028-02-07
+7,Villa 69,5,2029-04-22
+3,The Yacoubian Building,2,2027-09-08
+7,The Blue Elephant,4,2027-03-01
+5,Taymour w Shafika,3,2026-05-02
+9,Les Silences du palais,5,2026-08-14
+1,El-Banate Dol,5,2026-03-22
+7,El-Irhabby,2,2026-11-27
+4,Sheikh Jackson,1,2027-02-10
+10,El-Limby,4,2030-01-27
+1,Sabaa Waraat,2,2028-05-22
+7,Sheikh Jackson,4,2029-03-13
+6,Taymour w Shafika,2,2027-10-07
+8,Cairo 678,1,2029-11-29
+8,Les Silences du palais,2,2027-02-26
+8,Zef Chbibek,2,2029-05-10
+2,Zef Chbibek,3,2028-07-26
+1,El-Belyatsho,3,2029-02-10
+6,Taymour w Shafika,3,2026-06-27
+8,La La Land,5,2029-05-13
+3,Welad Rizk,1,2027-01-24
+1,El-Banate Dol,5,2026-09-01
+6,The Blue Elephant,2,2028-03-25
+1,El-Basha Telmiz,1,2029-03-01
+9,Ouled El-Guetna,4,2028-04-13
+7,Halfaouine: l'enfant des terrasses,4,2026-07-24
+3,Bab El-Hara,2,2028-01-22
+5,Le Challat de Tunis,4,2026-03-20
+8,Forrest Gump,5,2026-08-14
+9,Amn Dawla,3,2026-12-31
+8,Ouled El-Guetna,1,2027-11-08
+8,Halfaouine: l'enfant des terrasses,3,2028-02-15
+8,Saidi fil Gamaa El-Amrikiya,5,2027-08-01
+1,The Blue Elephant,1,2025-10-19
+1,El-Basha Telmiz,1,2027-01-13
+2,Sammouta,4,2029-07-03
+7,La Danse du vent,4,2026-07-26
+3,El-Mamar,4,2028-06-16
+8,Africano,3,2027-01-20
+10,Gharam Fel-Carnak,3,2030-01-28
+10,Soltane El-Medina,5,2027-08-26
+8,El-Keif,3,2027-12-25
+5,Bente Min El-Zahraa,4,2029-04-04
+6,Saidi fil Gamaa El-Amrikiya,3,2026-12-12
+5,Goodfellas,2,2026-05-25
+2,Bente Min El-Zahraa,1,2026-10-25
+7,The Island,5,2027-06-03
+8,The Island,3,2027-01-19
+5,Farsheed El-Madi,4,2026-03-11
+1,La Danse du vent,4,2029-02-23
+4,El-Limby,2,2026-12-21
+8,La Danse du vent,1,2028-05-16
+9,Le Challat de Tunis,4,2029-08-15
+2,Soltane El-Medina,1,2030-04-24
+6,Making Of,1,2029-02-08
+7,Le Challat de Tunis,4,2028-05-03
+7,Boushkash,4,2028-02-01
+9,Ouled El-Guetna,2,2027-10-26
+5,Making Of,1,2028-11-07
+2,Les Silences du palais,3,2026-01-24
+8,Making Of,4,2029-04-23
+4,Taymour w Shafika,3,2025-09-19
+8,Bente Min El-Zahraa,3,2027-11-28
+4,Cairo 678,5,2027-01-08
+5,Farsheed El-Madi,2,2028-07-22
+4,Bab El-Hara,5,2026-02-13
+8,El-Gezira,1,2028-01-18
+9,Lilly,5,2027-02-04
+5,Making Of,1,2027-10-12
+3,El-Irhabby,1,2027-05-08
+5,Titanic,1,2027-07-15
+5,Sons of Rizk,5,2030-02-23
+2,Gharam Fel-Carnak,1,2028-05-31
+5,The Island,4,2027-06-13
+6,La La Land,4,2028-01-25
+3,Cairo 678,5,2027-02-17
+10,El-Basha Telmiz,3,2027-02-24
+8,Ashab Wala Business,2,2027-06-09
+1,El-Irhabby,3,2026-04-08
+5,The Yacoubian Building,4,2029-04-03
+5,Africano,5,2029-09-25
+9,El-Rayes Omar Harb,2,2027-11-23
+9,Zef Chbibek,4,2026-01-20
+2,El-Nazer,4,2026-02-04
+8,Goodfellas,2,2029-02-26
+6,Avatar,3,2030-06-15
+3,El-Khawaga,3,2026-11-12
+8,El-Kenz,2,2026-08-20
+8,Le Challat de Tunis,1,2027-06-24
+7,Amn Dawla,3,2027-10-09
+8,Bab El-Hara,4,2027-02-14
+3,Sammouta,2,2028-03-30
+8,Lilly,2,2029-06-10
+4,Ouled El-Guetna,2,2026-03-10
+3,Saidi fil Gamaa El-Amrikiya,2,2026-08-24
+10,El-Baghdadi,3,2027-04-03
+8,Halfaouine: l'enfant des terrasses,5,2025-09-08
+3,Boushkash,5,2028-04-06
+8,Ashab Wala Business,2,2029-03-19
+5,El-Beyout Asrar,5,2030-03-16
+7,Captain Masr,5,2026-09-01
+7,Al-Khoroug Lel-Nahar,3,2025-09-19
+5,Goodfellas,2,2028-02-24
+2,The Treasure,4,2025-12-14
+7,El-Keif,5,2027-12-17
+10,Gharam Fel-Carnak,5,2028-04-15
+1,El-Banate Dol,4,2030-03-07
+8,Soltane El-Medina,4,2028-01-22
+5,Al-Khoroug Lel-Nahar,3,2029-03-08
+9,Making Of,4,2030-06-21
+7,Sons of Rizk,2,2027-11-28
+9,Décor,4,2026-05-29
+1,Avatar,3,2026-03-19
+9,Captain Masr,1,2026-12-29
+7,Farsheed El-Madi,4,2027-11-19
+3,Farsheed El-Madi,5,2030-06-18
+1,Welad Rizk,5,2026-07-03
+10,Boushkash,3,2028-12-26
+2,Africano,4,2025-08-21
+5,Microphone,5,2026-06-04
+7,Africano,4,2026-01-17
+2,Boushkash,5,2027-09-22
+3,Lilly,1,2027-01-07
+2,The Blue Elephant,3,2027-02-11
+7,Le Prince,5,2025-12-22
+2,Inception,5,2027-01-12
+8,Sahar El-Layali,4,2029-12-27
+10,The Blue Elephant,3,2029-09-28
+10,Clash,3,2028-11-13
+8,Sahar El-Layali,5,2028-03-28
+4,El-Rayes Omar Harb,2,2025-09-26
+6,Pulp Fiction,4,2026-02-10
+9,Amn Dawla,3,2028-12-05
+9,Sons of Rizk,4,2027-02-13
+9,Titanic,1,2027-08-26
+7,El-Mamar,3,2027-05-30
+5,El-Khawaga,2,2029-12-31
+10,Sammouta,5,2025-10-18
+9,El-Basha Telmiz,5,2027-12-25
+8,El-Gezira,3,2029-09-22
+9,Saidi fil Gamaa El-Amrikiya,4,2028-09-04
+10,El-Mamar,3,2030-04-25
+3,Farsheed El-Madi,4,2030-02-23
+4,El-Banate Dol,5,2030-03-20
+3,Ouled El-Guetna,4,2029-09-10
+5,El-Mamar,4,2030-04-27
+10,Excuse My French,2,2026-08-27
+3,El-Erhab Wel-Kabab,4,2025-11-16
+6,Sabaa Waraat,5,2025-10-17
+3,Ahlan Kbeer,3,2026-07-25
+7,The Island,2,2026-12-23
+6,Microphone,4,2028-03-15
+8,Welad Rizk,4,2025-11-20
+7,Saidi fil Gamaa El-Amrikiya,2,2029-05-16
+8,Inception,5,2025-11-12
+3,Sabaa Waraat,4,2029-03-21
+10,Sons of Rizk,2,2028-04-29
+2,El-Erhab Wel-Kabab,5,2025-09-03
+4,Africano,2,2026-09-10
+3,Microphone,2,2029-04-10
+2,Lilly,5,2029-09-25
+8,Bente Min El-Zahraa,5,2029-10-27
+5,Making Of,2,2030-02-15
+9,El-Khawaga,4,2027-07-03
+10,Sahar El-Layali,1,2029-01-04
+5,Avatar,2,2026-05-30
+5,The Blue Elephant,4,2027-08-02
+3,The Matrix,1,2025-12-24
+5,Sons of Rizk,3,2025-11-28
+10,Soltane El-Medina,5,2027-06-16
+3,Africano,3,2027-01-21
+9,El-Erhab Wel-Kabab,5,2030-06-12
+5,Sahar El-Layali,1,2027-06-22
+9,Goodfellas,2,2029-07-22
+5,Bente Min El-Zahraa,3,2029-03-15
+3,Titanic,3,2029-11-28
+3,Titanic,3,2026-12-28
+10,La La Land,1,2030-03-18
+2,Inception,4,2025-09-26
+2,Zef Chbibek,3,2029-12-22
+1,Sahar El-Layali,5,2026-09-26
+7,Sahar El-Layali,2,2025-12-11
+8,Welad Rizk,5,2027-09-03
+3,Sabaa Waraat,3,2029-12-05
+2,Les Silences du palais,2,2029-05-25
+4,Ouled El-Guetna,2,2025-10-26
+10,Le Prince,2,2028-10-03
+10,Gharam Fel-Carnak,2,2026-11-07
+2,The Blue Elephant,2,2028-08-01
+2,Bente Min El-Zahraa,5,2029-09-17
+8,Al-Kaala,4,2027-05-13
+9,El-Erhab Wel-Kabab,4,2029-05-21
+5,Pulp Fiction,5,2029-04-23
+8,Halfaouine: l'enfant des terrasses,1,2026-04-08
+2,El-Le'b Ma'a El-Kobar,2,2027-11-12
+8,Amn Dawla,5,2027-03-13
+10,Lilly,3,2030-05-05
+9,The Shawshank Redemption,3,2028-04-10
+5,Satin Rouge,3,2028-10-05
+7,Le Prince,1,2030-04-30
+4,Ahlan Kbeer,1,2026-05-03
+6,Farsheed El-Madi,4,2030-04-20
+1,Sammouta,2,2026-05-09
+7,La La Land,3,2029-10-02
+8,El-Banate Dol,1,2027-05-17
+5,El-Fil El-Azraq,2,2030-06-15
+8,Taymour w Shafika,2,2029-04-26
+8,El-Baghdadi,4,2025-11-29
+5,Cairo 678,5,2030-05-31
+3,Ashab Wala Business,5,2030-05-11
+1,El-Nazer,1,2030-01-25
+8,El-Fil El-Azraq,3,2028-12-25
+6,The Dark Knight,3,2028-10-14
+10,La La Land,3,2026-06-19
+6,El-Basha Telmiz,3,2029-08-17
+4,Sabaa Waraat,3,2026-03-29
+9,The Island,4,2026-09-26
+4,El-Fil El-Azraq,4,2025-08-28
+6,Gharam Fel-Carnak,2,2026-07-08
+2,Al-Khoroug Lel-Nahar,4,2027-03-27
+3,Villa 69,4,2030-02-27
+7,The Matrix,2,2028-08-12
+2,El-Banate Dol,1,2028-02-04
+2,Soltane El-Medina,3,2028-07-03
+7,Al-Khoroug Lel-Nahar,3,2027-01-28
+3,Le Challat de Tunis,5,2029-09-26
+7,Villa 69,1,2025-10-14
+8,Le Challat de Tunis,5,2026-03-26
+9,Farsheed El-Madi,1,2030-03-23
+10,Al-Kaala,3,2026-07-26
+5,Ashab Wala Business,1,2030-04-25
+10,El-Gezira,3,2028-02-06
+1,Satin Rouge,5,2027-04-09
+5,Le Challat de Tunis,1,2028-12-31
+7,El-Baghdadi,2,2025-12-11
+3,The Night of Counting the Years,3,2028-08-08
+10,El-Beyout Asrar,4,2029-09-06
+3,El-Beyout Asrar,5,2029-09-26
+9,Forrest Gump,2,2028-06-06
+5,Le Challat de Tunis,4,2025-10-08
+9,Farsheed El-Madi,5,2026-02-10
+1,The Dark Knight,2,2027-06-06
+9,Saidi fil Gamaa El-Amrikiya,5,2026-06-15
+4,Le Prince,5,2026-01-12
+6,Saidi fil Gamaa El-Amrikiya,4,2029-01-14
+3,Zef Chbibek,2,2026-08-12
+3,Sammouta,5,2026-06-23
+4,El-Le'b Ma'a El-Kobar,4,2029-04-12
+8,Amn Dawla,3,2029-05-26
+3,The Matrix,1,2028-02-23
+4,Gharam Fel-Carnak,1,2029-11-25
+9,Gharam Fel-Carnak,4,2029-12-30
+6,The Island,3,2028-07-10
+5,El-Belyatsho,1,2025-12-21
+7,Excuse My French,5,2027-12-26
+3,Le Prince,4,2025-08-01
+9,Soltane El-Medina,2,2026-12-21
+1,Halfaouine: l'enfant des terrasses,3,2026-07-11
+8,El-Mamar,2,2028-06-28
+10,Le Prince,2,2026-09-05
+1,Zef Chbibek,4,2028-09-04
+1,Villa 69,5,2026-07-18
+1,Bab El-Hara,4,2027-02-18
+7,El-Erhab Wel-Kabab,5,2029-01-23
+10,El-Kenz,3,2025-08-21
+5,La Danse du vent,4,2026-01-16
+3,Africano,3,2029-05-05
+5,The Dark Knight,4,2026-11-30
+3,Les Silences du palais,3,2029-07-21
+6,Sheikh Jackson,1,2029-12-08
+6,Ashab Wala Business,4,2029-08-13
+1,The Blue Elephant,4,2027-05-01
+1,Villa 69,4,2026-05-10
+7,El-Fil El-Azraq,2,2027-02-27
+4,Saidi fil Gamaa El-Amrikiya,3,2028-12-30
+9,El-Basha Telmiz,5,2026-06-11
+4,El-Baghdadi,5,2029-06-25
+7,Boushkash,2,2027-10-15
+4,El-Kenz,4,2029-12-21
+7,Pulp Fiction,4,2026-06-17
+7,El-Montag,1,2028-06-27
+4,El-Baghdadi,3,2027-03-08
+1,Villa 69,3,2027-05-14
+1,El-Le'b Ma'a El-Kobar,1,2029-09-12
+7,El-Rayes Omar Harb,3,2029-12-22
+1,El-Belyatsho,2,2029-02-23
+3,Bab El-Hara,1,2025-08-01
+7,Zef Chbibek,5,2026-12-23
+9,Farsheed El-Madi,5,2025-10-29
+1,Décor,4,2028-04-15
+8,Sahar El-Layali,2,2028-11-27
+1,Pulp Fiction,4,2028-09-15
+1,Satin Rouge,3,2028-12-06
+10,Forrest Gump,2,2029-02-28
+1,Sahar El-Layali,3,2025-09-20
+8,Laïla Min Sanawat,3,2030-02-13
+3,El-Keif,2,2027-07-02
+5,Goodfellas,2,2028-01-18
+2,Farsheed El-Madi,2,2026-12-09
+3,El-Khawaga,3,2028-06-05
+8,The Island,4,2029-04-07
+7,Halfaouine: l'enfant des terrasses,4,2026-01-24
+7,Microphone,3,2027-11-24
+9,La Danse du vent,5,2029-05-16
+1,Africano,1,2029-11-22
+5,Satin Rouge,1,2027-06-30
+7,Inception,5,2025-11-07
+2,Pulp Fiction,1,2026-10-02
+10,Pulp Fiction,2,2025-08-17
+10,Les Silences du palais,2,2026-11-16
+10,Taymour w Shafika,2,2026-09-27
+7,La Danse du vent,4,2028-07-19
+10,Making Of,3,2027-07-09
+2,Décor,3,2025-09-19
+1,Africano,1,2029-11-17
+3,Sahar El-Layali,5,2029-12-12
+10,El-Limby,2,2030-03-21
+10,Cairo 678,2,2026-11-06
+2,Le Challat de Tunis,5,2029-01-19
+10,The Blue Elephant,3,2027-10-12
+7,Welad Rizk,2,2030-01-14
+7,El-Baghdadi,5,2027-01-17
+2,Cairo 678,4,2029-01-05
+9,The Matrix,2,2025-08-11
+5,Boushkash,3,2026-12-15
+5,El-Nazer,2,2027-03-08
+9,El-Banate Dol,2,2030-01-04
+4,Sons of Rizk,3,2025-11-08
+5,Le Challat de Tunis,4,2026-09-10
+8,Décor,4,2029-12-15
+3,The Dark Knight,2,2030-04-25
+4,The Night of Counting the Years,1,2027-11-07
+4,El-Banate Dol,5,2029-07-09
+4,Bente Min El-Zahraa,3,2025-11-27
+10,Les Silences du palais,5,2028-11-01
+5,Satin Rouge,3,2030-01-14
+6,Captain Masr,5,2029-08-03
+3,Sabaa Waraat,1,2026-03-28
+5,El-Nazer,4,2030-05-16
+9,El-Kenz,5,2027-06-24
+3,Lilly,1,2027-12-14
+9,Zef Chbibek,5,2029-07-29
+3,Le Challat de Tunis,5,2026-05-03
+5,La La Land,1,2027-05-24
+10,Ahlan Kbeer,4,2028-05-20
+1,The Island,2,2028-03-17
+2,El-Limby,2,2029-05-23
+7,Bente Min El-Zahraa,1,2028-07-07
+4,The Yacoubian Building,2,2025-09-12
+6,Sabaa Waraat,2,2026-08-18
+8,Zef Chbibek,1,2026-03-20
+1,El-Belyatsho,3,2028-10-02
