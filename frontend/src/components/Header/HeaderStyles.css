@@ -1,0 +1,167 @@
+/* ############### Header Section ############### */
+
+.header-wrapper-home {
+  background: url("home-bg.jpg");
+  background-position: top left;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 30px 50px;
+}
+
+.header-wrapper-browse {
+  background: url("joker1.jpg");
+  background-position: center top;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 30px 50px;
+}
+
+@media (max-width: 550px) {
+  .header-wrapper-home,
+  .header-wrapper-browse {
+    padding: 15px 20px;
+  }
+}
+
+.navbar-home,
+.navbar-signin {
+  max-width: 1850px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 175px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.navbar-signin {
+  margin-bottom: 75px;
+}
+.profile-icon {
+  cursor: pointer;
+  margin-left: 15px; /* Ajustez la marge selon vos préférences */
+  font-size: 1.5rem; /* Ajustez la taille de la police selon vos préférences */
+  color: #fff; /* Couleur du texte (blanc) */
+  transition: color 0.3s ease; /* Animation de transition pour une meilleure expérience utilisateur */
+
+  &:hover {
+    color: #e50914; /* Couleur du texte au survol (rouge Netflix) */
+  }
+}
+
+/* Ajoutez ces styles pour styliser le bouton de déconnexion lorsque non connecté */
+.navbar-item a {
+  cursor: pointer;
+  margin-left: 15px; /* Ajustez la marge selon vos préférences */
+  font-size: 1.5rem; /* Ajustez la taille de la police selon vos préférences */
+  color: #fff; /* Couleur du texte (blanc) */
+  text-decoration: none; /* Supprimez la décoration du lien */
+  transition: color 0.3s ease; /* Animation de transition pour une meilleure expérience utilisateur */
+
+  &:hover {
+    color: #e50914; /* Couleur du texte au survol (rouge Netflix) */
+  }
+}
+.navbar-home,
+.navbar-signin,
+.navbar-browse {
+  display: flex;
+  justify-content: space-between;
+  align-items: center; /* Aligner les éléments verticalement au centre */
+  max-width: 1850px;
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.search-bar {
+  margin-left: auto; /* Déplace la barre de recherche à l'extrême droite */
+  margin-right: 15px; /* Ajoute une marge à droite pour l'espacement */
+}
+
+.profile-icon,
+.navbar-item a {
+  cursor: pointer;
+  margin-left: 15px;
+  font-size: 1.5rem;
+  color: #fff;
+  transition: color 0.3s ease;
+
+  &:hover {
+    color: #e50914;
+  }
+}
+@media (max-width: 550px) {
+  .navbar-home,
+  .navbar-signin {
+    margin-bottom: 100px;
+  }
+}
+
+.navbar-browse {
+  max-width: 1850px;
+  width: 100%;
+  display: flex;
+  justify-content: flex-start;
+  margin-bottom: 175px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.logo {
+  height: 50px;
+  width: 160px;
+}
+
+.signin-button {
+  display: block;
+  background-color: #3109e5;
+  width: 84px;
+  height: fit-content;
+  color: #fff;
+  border: 0;
+  font-size: 15px;
+  border-radius: 3px;
+  padding: 8px 17px;
+  cursor: pointer;
+}
+
+.header-link,
+.header-link-bold {
+  padding: 5px;
+}
+
+.header-link a {
+  color: #fff;
+  margin-left: 25px;
+  cursor: pointer;
+  text-decoration: none; /* Désactive le soulignement */
+  font-family: "Netflix Sans", sans-serif; /* Utilisez la police appropriée */
+  font-size: 1.2rem; /* Taille de la police */
+}
+
+.header-link-bold {
+  font-weight: bolder;
+}
+
+
+.left-align {
+  margin-left: 0; /* Déplace le bouton à gauche */
+  margin-right: 10px; /* Ajoute une marge à droite pour l'espacement */
+}
+.play-button {
+  box-shadow: 0 0.6vw 1vw -0.4vw rgba(0, 0, 0, 0.35);
+  background-color: #e6e6e6;
+  border-width: 0;
+  padding: 10px 35px;
+  border-radius: 5px;
+  max-width: 130px;
+  font-size: 20px;
+  margin-top: 25px;
+  cursor: pointer;
+  text-align: left; /* Aligner le texte à gauche */
+  color: #000;
+  transition: 0.4s ease;
+  margin-bottom: 200px; /* Cette marge peut être ajustée selon vos besoins */
+  outline: 0;
+}

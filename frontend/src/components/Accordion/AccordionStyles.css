@@ -1,0 +1,81 @@
+/* ############### Accordion Section ############### */
+
+.accordion-wrapper {
+  max-width: 815px;
+  margin: auto;
+  padding: 70px 45px;
+  display: flex;
+  flex-direction: column;
+  background-color: #000000; /* Couleur de fond gris foncé */
+}
+
+@media (max-width: 550px) {
+  .accordion-wrapper {
+    max-width: initial;
+    padding: 70px 20px;
+  }
+}
+
+.accordion-title {
+  font-size: 50px;
+  line-height: 1.1;
+  margin-top: 0;
+  margin-bottom: 50px;
+  color: white; /* Couleur du texte en blanc */
+  text-align: center;
+}
+
+@media (max-width: 550px) {
+  .accordion-title {
+    font-size: 25px;
+    color: white; /* Couleur du texte en blanc */
+  }
+}
+
+.accordion-item {
+  margin-bottom: 10px;
+}
+
+.accordion-header {
+  background: #1f1f1f; /* Couleur de fond gris foncé */
+  font-size: 26px;
+  font-weight: normal;
+  padding: 0.8em 1.2em 0.8em 1.2em;
+  margin-bottom: 1px;
+  cursor: pointer;
+  color: white; /* Couleur du texte en blanc */
+  text-align: center;
+}
+
+@media (max-width: 550px) {
+  .accordion-header {
+    font-size: 20px;
+  }
+}
+
+.accordion-body {
+  background: #1f1f1f; /* Couleur de fond gris foncé */
+  font-size: 26px;
+  font-weight: normal;
+  padding: 0.8em 1.2em 0.8em 1.2em;
+  color: white; /* Couleur du texte en blanc */
+  text-align: center;
+}
+
+@media (max-width: 550px) {
+  .accordion-body {
+    font-size: 20px;
+  }
+}
+
+.accordion-image {
+  filter: brightness(0) invert(1);
+  width: 24px;
+  float: right;
+}
+
+@media (max-width: 550px) {
+  .accordion-image {
+    width: 16px;
+  }
+}

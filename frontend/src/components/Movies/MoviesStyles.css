@@ -1,0 +1,125 @@
+/* ############### Movies Section ############### */
+/* Importation des fichiers de style de Slick Carousel */
+@import "slick-carousel/slick/slick.css";
+@import "slick-carousel/slick/slick-theme.css";
+
+/* Ajout des styles personnalisés après l'importation de Slick Carousel */
+
+/* Styling des flèches du carrousel */
+.slick-prev,
+.slick-next {
+  font-size: 24px; /* Taille de la police des flèches */
+  color: white; /* Couleur des flèches */
+  background-color: transparent; /* Couleur d'arrière-plan des flèches */
+}
+
+.slick-prev:hover,
+.slick-next:hover {
+  color: gray; /* Couleur des flèches au survol */
+}
+
+/* Styling des points indicateurs (dots) du carrousel */
+.slick-dots {
+  bottom: 10px; /* Position verticale des dots */
+}
+
+.slick-dots li {
+  margin: 0 5px; /* Espacement entre les dots */
+}
+
+.slick-dots li button {
+  font-size: 12px; /* Taille de la police des dots */
+  color: white; /* Couleur des dots */
+}
+
+.slick-dots li.slick-active button {
+  color: gray; /* Couleur des dots actifs */
+}
+
+/* Ajoutez d'autres styles personnalisés au besoin */
+
+.all-slides-wrapper {
+  padding: 30px 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: #000;
+}
+
+.slide-wrapper {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 50px;
+}
+
+.slide-title {
+  font-size: 25px;
+  color: #ffffff;
+  font-weight: bold;
+  margin-bottom: 20px;
+  text-align: left;
+}
+
+.all-cards-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px; /* Ajoutez un espace entre les cartes */
+  justify-content: space-around;
+}
+
+.card-wrapper {
+  position: relative;
+  transition: transform 0.3s ease;
+  width: calc(25% - 20px); /* Largeur de chaque carte avec espacement */
+}
+
+.card-wrapper:hover {
+  transform: scale(1.05);
+}
+
+.card-image {
+  border: 0;
+  width: 100%;
+  height: auto;
+  cursor: pointer;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-feature-wrapper {
+  background-size: cover;
+  position: relative;
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: black;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+.card-title {
+  color: rgb(226, 190, 190);
+  font-size: 36px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.card-description {
+  color: white;
+  font-size: 18px;
+  font-weight: 400;
+  margin-bottom: 20px;
+}
+
+.card-feature-close {
+  color: white;
+  position: absolute;
+  right: 30px;
+  top: 30px;
+  cursor: pointer;
+  background-color: transparent;
+  border: 0;
+  outline: none;
+}

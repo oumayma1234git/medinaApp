@@ -1,0 +1,61 @@
+/* ############### Footer Section ############### */
+
+.footer-wrapper {
+  max-width: 100%;
+  margin: auto;
+  padding: 70px 56px;
+  background-color: #000;
+}
+
+.footer-title {
+  font-size: 16px;
+  color: #757575;
+  margin-bottom: 50px;
+}
+
+@media (max-width: 740px) {
+  .footer-wrapper {
+    padding: 70px 30px;
+  }
+}
+
+@media (max-width: 500px) {
+  .footer-wrapper {
+    padding: 70px 15px;
+  }
+}
+
+.footer-row {
+  margin-top: 40px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 20px; /* Espace entre les colonnes */
+}
+
+@media (max-width: 740px) {
+  .footer-row {
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  }
+}
+
+@media (max-width: 500px) {
+  .footer-row {
+    grid-template-columns: 1fr;
+  }
+}
+
+.footer-column {
+  display: flex;
+  flex-direction: column;
+}
+
+.footer-link {
+  color: #757575;
+  margin-bottom: 20px;
+  font-size: 13px;
+  text-decoration: none; /* Pour supprimer le soulignement des liens */
+}
+
+.footer-link:hover {
+  text-decoration: underline; /* Ajoutez le soulignement au survol du lien */
+}
